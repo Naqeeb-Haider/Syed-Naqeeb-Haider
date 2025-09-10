@@ -23,11 +23,12 @@ Syed Naqeeb Haider | Computer Science Graduate | Cybersecurity Enthusiast   Spec
 
 - 🌟 Proven track record of delivering high-quality projects that consistently surpass client expectations.
 
-🌐 Security Skillset
+## 🌐 Security Skillset
 <br>
-### [🌐 Specialties](#about-me)
-
-I understand Computer Security, know various hacking techniques, and perform Cyber Threat Analysis
+### Specialties
+○ I understand Computer Security  
+○ I know various hacking techniques  
+○ I perform Cyber Threat Analysis
 
 🌟 **Let's Connect!**
 <br>
