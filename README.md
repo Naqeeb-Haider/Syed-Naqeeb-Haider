@@ -1,8 +1,8 @@
 ## [Welcome, Security Enthusiasts!](#about-me)
 
 <br>
-# Syed-Naqeeb-Haider
-Syed Naqeeb Haider | Computer Science Graduate | Cybersecurity Enthusiast   Specializing in Infrastructure Security Testing &amp; Malware Development   Passionate about strengthening digital defenses and exploring advanced security challenges
+👋 I'm Syed Naqeeb Haider, a Penetration Tester and Cybersecurity Enthusiast, specializing in Infrastructure Security Testing and Malware Development, with a passion for strengthening digital defenses and exploring advanced security challenges. I am a Computer Science graduate from the University of Haripur.
+
 
 ## [🎓 Education & Certifications](#about-me)
 <br>
