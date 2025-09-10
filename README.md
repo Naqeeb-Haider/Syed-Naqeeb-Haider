@@ -8,11 +8,12 @@
 <br>
 ● 🎓 Completed B.S. in Software Engineering at the University of Haripur  
 
+
 ● 🏆 Holds certifications in:  
 
 ◦ Fortinet Certified Associate Cybersecurity  
 ◦ Fortinet Certified Fundamentals Cybersecurity  
-◦ SKF100: Understanding the OWASP® Top 10 Security Threats  
+◦ SKF100: Understanding the OWASP® Top 10 Security Threats (Linux Foundation) 
 ◦ Windows API for Red Team Introduction  
 ◦ Cybersecurity Fundamentals (IBM)  
 ◦ Getting Started with Threat Intelligence and Hunting (IBM)  
@@ -20,7 +21,7 @@
 
 ## [💼 Professional Expertise](#professional-expertise)
 <br>
-- 🌟 Skilled in identifying system and network vulnerabilities, performing thorough penetration testing, and executing rapid incident response.  
+🌟 Skilled in identifying system and network vulnerabilities, performing thorough penetration testing, and executing rapid incident response.  
 
 🌟 Proven track record of delivering high-quality projects that consistently surpass client expectations.
 
