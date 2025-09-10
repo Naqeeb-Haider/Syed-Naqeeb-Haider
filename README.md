@@ -21,21 +21,20 @@ Syed Naqeeb Haider | Computer Science Graduate | Cybersecurity Enthusiast   Spec
 <br>
 - 🌟 Skilled in identifying system and network vulnerabilities, performing thorough penetration testing, and executing rapid incident response.  
 
-- 🌟 Proven track record of delivering high-quality projects that consistently surpass client expectations.
+🌟 Proven track record of delivering high-quality projects that consistently surpass client expectations.
 
-## 🌐 Security Skillset
+## [🌐 Security Skillset](#security-skillset)
 <br>
-### Specialties
-- I understand Computer Security  
-- I know various hacking techniques  
-- I perform Cyber Threat Analysis
+- Specialties : Computer Security , Cyber Threat Intelligence
+- Security : Vulnerability Assessments, Penetration Testing
 
-🌟 **Let's Connect!**
+## [🌟 Let's Connect!](#lets-connect)
+
 <br>
 I’m a passionate lifelong learner who believes in the power of collaboration to create a safer digital world.  
 Connect with me to share insights, exchange ideas, and work together towards stronger cybersecurity.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/syed-naqeeb-haider-4ba997219)  
 
-💬 Feel free to reach out – together, we can make the digital space safer and more resilient!
+💬 “Together, we can turn cybersecurity challenges into opportunities!”
 
